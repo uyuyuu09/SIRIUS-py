@@ -1,6 +1,6 @@
 # SIRIUS-py
 
-SIRIUS-pyはPythonにより構築された、SIRIUSを運用するうえでセットアップする際に必要なシステムです。
+SIRIUS-pyはSIRIUSをセットアップする際に必要なシステムです。
 
 ## How to use?
 
